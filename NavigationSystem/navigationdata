@@ -1,0 +1,56 @@
+{
+kljkjlk
+ "waypoints": [
+	{
+	 "name" : "amsterdam",
+	
+	 "longitude" : 13.4
+	 
+	},
+	
+	{
+	
+	 "nddame" : "berlin",
+	 "latitffude" : 52.5166,
+	 "longitude" : 13.4
+	},
+		{
+	
+	
+	 "latitude" : 52.5166,
+	 "longitude" : 13.4,
+	  "name" : "gottengan"
+	}
+	kjdsflkjsa
+	{
+	 "latitude" : 25.33,
+	 "name" : "darmstadt",
+	
+	 "longitude" : 8.65119
+	}
+],
+ "pois": [
+	{
+	 "name" : "H_DA Mensa",
+	 "latitude" : 49.8728,
+	 "longitude" : 18.612,
+
+	 "description" : "Best Mensa in the World!!"
+	},
+	
+	{
+	 "name" : "H_DA Mensa1",
+	 "latitude" : 49.8728,
+	 "longitude" : 5.6512,
+	 "type" : "SIGHTSEEING",
+	 "description" : "Best Mensa in the World!!"
+	},
+	{
+	 "name" : "H_DA Mensa2",
+	 "latitude" : 49.8728,
+	 "longitude" : 7.6512,
+	 "type" : "RESTAURANT",
+	 "description" : "Best Mensa in the World!!"
+	}
+	]
+}
